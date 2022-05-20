@@ -5,7 +5,7 @@
 I'm Matěj Schrödl, student at FIT CTU in Prague
 
 - :herb: I’m currently a student with a love for `C++` and `Perl`, and `C`.
-- I also workes with `PostgreSQL`
+- I also worked with `PostgreSQL`
 
 
 
