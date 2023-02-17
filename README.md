@@ -4,8 +4,8 @@
 
 I'm Matěj Schrödl, student at FIT CTU in Prague
 
-- :herb: I’m currently a student with a love for `C++` and `Perl`, and `C`.
-- I also worked with `PostgreSQL`.
+- :herb: I’m currently a student with a love for `C++` and `C`.
+- I also worked with relation databases, other imperative. functional and even logic programming languages.
 
 I love solving problems on leetcode. You can check my profile here: https://leetcode.com/schrodlm/
 
