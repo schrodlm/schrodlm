@@ -1,19 +1,21 @@
-### Hi, :wave:
+# About
 
-<br />
+I'm Matěj Schrödl, a software engineering student with a passion for coding. This repository is my collection of coding projects, spanning various languages and sizes. 
 
-I'm Matěj Schrödl, student at FIT CTU in Prague
+Inside, you'll find:
 
-- :herb: I’m currently a student with a love for `C++/C` and `Java`.
-- I also worked with relation databases, other imperative. functional and even logic programming languages.
+- **Projects**: My primary focus.
+- **Language Experiments**: Where I explore new languages.
+- **Small Utilities**: Quick hacks and handy tools.
+- **Learning Notes**: Occasionally, you'll see my coding exercises and study notes.
 
-I love solving problems on leetcode. You can check my profile here: https://leetcode.com/schrodlm/
-
+Feel free to explore and use any code that catches your eye. Thanks for stopping by!
+</p>
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/matej-schrodl/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="schrodlm" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/matej-schrodl354" target="_blank"><img align="center" src="https://img.icons8.com/color/344/instagram.png" alt="schrodlm" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/matej-schrodl/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="linked_in_link" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/schrodlm/" target="_blank"><img align="center" src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" alt="leetcode_link" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   
 </p>
